@@ -31,7 +31,7 @@ class Hotel(Resource):
         hotel = HotelModel(hotel_id, **dados)
         try:
             hotel.save_hotel()
-        except:
+        except Exception:
             return {'message': 'An internal error ocurred trying\
                  to save hotel.'}, 500  # Internal Server Error
         return hotel.json()
@@ -46,7 +46,7 @@ class Hotel(Resource):
         hotel = HotelModel(hotel_id, **dados)
         try:
             hotel.save_hotel()
-        except:
+        except Exception:
             return {'message': 'An internal error ocurred trying\
                  to save hotel.'}, 500  # Internal Server Error
         return hotel.json(), 201                    # Created
@@ -56,7 +56,7 @@ class Hotel(Resource):
         if hotel:
             try:
                 hotel.delete_hotel()
-            except:
+            except Exception:
                 return {'message': 'An internal error ocurred trying\
                     to delete hotel.'}, 500  # Internal Server Error
             return {'message': 'Hotel deleted.'}
