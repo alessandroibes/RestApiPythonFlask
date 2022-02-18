@@ -1,0 +1,193 @@
+{
+    "hoteis": [
+        {
+            "hotel_id": "delta",
+            "nome": "Delta Hotel",
+            "estrelas": 4.4,
+            "diaria": 520.2,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "bravo",
+            "nome": "Bravo Hotel",
+            "estrelas": 4.9,
+            "diaria": 720.2,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "alpha",
+            "nome": "Alpha Hotel",
+            "estrelas": 3.4,
+            "diaria": 180.2,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "charlie",
+            "nome": "Charlie Hotel",
+            "estrelas": 3.9,
+            "diaria": 380.9,
+            "cidade": "Santa Catarina"
+        },
+        {
+            "hotel_id": "echo",
+            "nome": "Echo Hotel",
+            "estrelas": 2.9,
+            "diaria": 180.8,
+            "cidade": "Santa Catarina"
+        },
+        {
+            "hotel_id": "foxtrot",
+            "nome": "Foxtrot Hotel",
+            "estrelas": 4.9,
+            "diaria": 880.9,
+            "cidade": "Santa Catarina"
+        },
+        {
+            "hotel_id": "golf",
+            "nome": "Golf Hotel",
+            "estrelas": 4.5,
+            "diaria": 500.9,
+            "cidade": "Santa Catarina"
+        },
+        {
+            "hotel_id": "india",
+            "nome": "India Hotel",
+            "estrelas": 4.6,
+            "diaria": 1250.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "juliete",
+            "nome": "Juliete Hotel",
+            "estrelas": 4.6,
+            "diaria": 641.75,
+            "cidade": "São Paulo"
+        },
+        {
+            "hotel_id": "kilo",
+            "nome": "Kilo Hotel",
+            "estrelas": 1.6,
+            "diaria": 250.75,
+            "cidade": "São Paulo"
+        },
+        {
+            "hotel_id": "lima",
+            "nome": "Lima Hotel",
+            "estrelas": 4.6,
+            "diaria": 423.75,
+            "cidade": "Santos"
+        },
+        {
+            "hotel_id": "mike",
+            "nome": "Mike Hotel",
+            "estrelas": 4.1,
+            "diaria": 477.5,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "november",
+            "nome": "November Hotel",
+            "estrelas": 4.8,
+            "diaria": 799.8,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "oscar",
+            "nome": "Oscar Hotel",
+            "estrelas": 2.8,
+            "diaria": 199.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "papa",
+            "nome": "Papa Hotel",
+            "estrelas": 1.8,
+            "diaria": 120.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "quebec",
+            "nome": "Quebec Hotel",
+            "estrelas": 5,
+            "diaria": 930.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "romeu",
+            "nome": "Romeu Hotel",
+            "estrelas": 3.1,
+            "diaria": 430.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "sierra",
+            "nome": "Sierra Hotel",
+            "estrelas": 3.5,
+            "diaria": 330.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "tango",
+            "nome": "Tango Hotel",
+            "estrelas": 4.5,
+            "diaria": 530.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "uniform",
+            "nome": "Uniform Hotel",
+            "estrelas": 4.2,
+            "diaria": 640.9,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "victor",
+            "nome": "Victor Hotel",
+            "estrelas": 3.7,
+            "diaria": 448.95,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "whiskey",
+            "nome": "Whiskey Hotel",
+            "estrelas": 3.7,
+            "diaria": 338.95,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "xray",
+            "nome": "X-Ray Hotel",
+            "estrelas": 4.7,
+            "diaria": 398.95,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "yankee",
+            "nome": "Yankee Hotel",
+            "estrelas": 1.7,
+            "diaria": 298.95,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "zulu",
+            "nome": "Zulu Hotel",
+            "estrelas": 4.9,
+            "diaria": 699.99,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "hotel",
+            "nome": "Hotel Hotel",
+            "estrelas": 2.9,
+            "diaria": 109.99,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "hotel_id": "omega",
+            "nome": "Omega Hotel",
+            "estrelas": 4.9,
+            "diaria": 720.2,
+            "cidade": "Rio de Janeiro"
+        }
+    ]
+}
